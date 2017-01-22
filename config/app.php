@@ -166,6 +166,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Encore\Admin\Providers\AdminServiceProvider::class,
 
         //
 
